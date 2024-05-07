@@ -1,0 +1,37 @@
+.header{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.main{
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+}
+.separator{
+    width: 50%;
+    height: 3px;
+    color: lightyellow;
+
+}
+.table{
+    width: 100%;
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
+.table th,
+.table td{
+    border: 1px solid black;
+}
+.Hobbies{
+    border: 1px solid black;
+}
+.footer{
+    text-align: center;
+    background-color: rgb(161, 236, 211);
+    height: 100px;
+}
+.video{
+    width: 800px;
+   
+}
